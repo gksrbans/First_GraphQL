@@ -1,0 +1,17 @@
+{
+  "name": "Graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "kyumoon",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.25.2",
+    "convert-csv-to-json": "^1.3.0",
+    "graphql": "^15.5.1"
+  }
+}
